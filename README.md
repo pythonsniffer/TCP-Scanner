@@ -18,4 +18,4 @@ A lightweight multithreaded TCP port scanner written in Python, featuring:
 ## Usage
 
 ```bash
-python scanner.py --target <IP or hostname> --start <start_port> --end <end_port> --timeout <seconds> --threads <num_threads>
+python scanner.py --target <IP or hostname> --start <start_port> --end <end_port> --timeout <seconds> 
